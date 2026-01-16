@@ -1,4 +1,4 @@
-# One Line of Code to Hijack an Entire Wesite
+# One Line of Code to Hijack an Entire Website
 HTML Injection Attack
 
 Modern web applications are incredibly powerful. They allow businesses to collect data, engage with users, process transactions, and present personalized content in real time. However, with this power comes risk. As applications grow increasingly dynamic, so does the attack surface. Among the many vulnerabilities that exist within the application layer, one stands out because of its deceptive simplicity: **server-side HTML injection.**
